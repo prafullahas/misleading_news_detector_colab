@@ -1,34 +1,11 @@
 # misleading_news_detector_colab
 
-A Natural Language Processing (NLP) project that detects whether a news article is misleading or reliable using machine learning models. Implemented in Google Colab with free resources, making it reproducible and lightweight for solo projects.
+An AI-powered tool that automatically summarizes meeting transcripts and extracts key action items. Built with Natural Language Processing (NLP) and designed for easy use in research, teams, or personal productivity.
 
-Tech Stack
+Meetings often run long and contain large amounts of unstructured text. This project streamlines the process by:
 
-Python (Google Colab)
+Summarizing transcripts into concise notes.
 
-NLP Libraries: NLTK, SpaCy, Scikit-learn
+Highlighting action items (tasks, deadlines, responsibilities).
 
-Deep Learning: TensorFlow / PyTorch (optional for advanced models like LSTM or BERT)
-
-Data Handling: Pandas, NumPy
-
-Visualization: Matplotlib, Seaborn
-
-Features
-
-Detects misleading vs. reliable news in text form.
-
-Easy to run in Google Colab (no setup hassle).
-
-Extendable with advanced NLP models (e.g., BERT).
-
-Can be adapted for different languages with available datasets.
-
-
-Future Improvements
-
-Deploy as a FastAPI/Flask app for real-time detection.
-
-Extend to multi-class classification (satire, propaganda, bias, etc.).
-
-Improve explainability using SHAP/LIME.
+Making it easier for teams to review discussions and decisions quickly.
